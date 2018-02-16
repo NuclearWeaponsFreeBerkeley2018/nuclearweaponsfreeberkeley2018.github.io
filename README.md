@@ -25,4 +25,4 @@ For more information, please email us at <nwfba2018@gmail.com>.
 
 [Full Text of 1986 Nuclear Free Berkeley Act](nfba_1986.pdf)
 
-[Donate to the campaign!](donate.md)
+[Support the campaign!](donate.md)
