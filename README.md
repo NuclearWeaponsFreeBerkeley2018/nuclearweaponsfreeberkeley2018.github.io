@@ -11,4 +11,4 @@ completely banned and eliminated.
 
 Sign our petition today!
 
-For more information, please email us at [nwfba2018@gmail.com](nwfba2018@gmail.com)
+For more information, please email us at <nwfba2018@gmail.com>.
