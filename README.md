@@ -17,7 +17,7 @@ For more information, please email us at <nwfba2018@gmail.com>.
 
 ## Links:
 
-[Frequently Ask Questions](FAQs.md)
+[Frequently Ask Questions](faqs.md)
 
 [Upcoming Events](events.md)
 
