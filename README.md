@@ -1,8 +1,6 @@
 ## Citizens against nuclear weapons in Berkeley:
 ### Update a Cold War law for modern times and advocate for a nuclear weapons free world.
 
-![Bikini Atoll explosion](img/bikini-atoll.jpg)
-
 The original Berkeley Nuclear Free Act measured passed by ballot measure in 1986. This was during the
 height of the cold war when over 60,000 weapons were stockpiled globally. Since the end of the cold
 war, through various treaties, the number of nuclear weapons has decreased dramatically. However,
@@ -30,4 +28,6 @@ For more information, please email us at <nwfba2018@gmail.com>.
 [Full Text of 1986 Nuclear Free Berkeley Act](nfba_1986.pdf)
 
 [Support the campaign!](support.md)
+
+![Bikini Atoll explosion](img/bikini-atoll.jpg)
 
