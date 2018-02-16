@@ -15,7 +15,7 @@ Sign our petition today!
 
 For more information, please email us at <nwfba2018@gmail.com>.
 
-<img src="img/hawaii-alert.jpg" alt="2018 Hawaii Alert" size="200px">
+<img src="img/hawaii-alert.jpg" alt="2018 Hawaii Alert" width="200px">
 
 ## Links:
 
