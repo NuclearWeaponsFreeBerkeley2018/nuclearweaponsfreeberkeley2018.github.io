@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Citizens Against Nuclear Weapons in Berkeley
+## Update a Cold War law for modern times and advocate for a Nuclear Weapons Free world
 
-You can use the [editor on GitHub](https://github.com/NuclearWeaponsFreeBerkeley2018/nuclearweaponsfreeberkeley2018.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The original Berkeley Nuclear Free Act measured passed by ballot measure in 1986. This was during the
+height of the cold war when over 60,000 weapons were stockpiled globally. Since the end of the cold
+war, through various treaties, the number of nuclear weapons has decreased dramatically. However,
+they still pose a threat. As recently as January 2018, the residents of Hawaii thought a nuclear weapon
+had been launched at them. Even though this was a false alarm, it still shows the imminent threat of
+nuclear weapons today. It is time for them to go the way of chemical and biological weapons and be
+completely banned and eliminated.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sign our petition today!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NuclearWeaponsFreeBerkeley2018/nuclearweaponsfreeberkeley2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information, please email us at [nwfba2018@gmail.com](nwfba2018@gmail.com)
