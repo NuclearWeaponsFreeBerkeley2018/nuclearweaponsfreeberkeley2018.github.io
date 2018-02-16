@@ -9,11 +9,12 @@ had been launched at them. Even though this was a false alarm, it still shows th
 nuclear weapons today. It is time for them to go the way of chemical and biological weapons and be
 completely banned and eliminated.
 
+<img src="img/hawaii-alert.jpg" alt="2018 Hawaii Alert" width="200px" align="right">
+
 Sign our petition today!
 
 For more information, please email us at <nwfba2018@gmail.com>.
 
-<img src="img/hawaii-alert.jpg" alt="2018 Hawaii Alert" width="200px">
 
 ## Links:
 
