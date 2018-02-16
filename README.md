@@ -15,9 +15,14 @@ For more information, please email us at <nwfba2018@gmail.com>.
 
 ## Links:
 
-[Frequently Ask Questions](FAQs.md)  
-[Upcoming Events](events.md)  
-[Full Text of 2018 Nuclear Weapons Free Berkeley Act](nwfba_2018.pdf)  
-[Title and Summary Assigned by Berkeley City Attorney](nwfba_2018_summ.pdf)  
-[Full Text of 1986 Nuclear Free Berkeley Act](nfba_1986.pdf)  
+[Frequently Ask Questions](FAQs.md)
+
+[Upcoming Events](events.md)
+
+[Full Text of 2018 Nuclear Weapons Free Berkeley Act](nwfba_2018.pdf)
+
+[Title and Summary Assigned by Berkeley City Attorney](nwfba_2018_summ.pdf)
+
+[Full Text of 1986 Nuclear Free Berkeley Act](nfba_1986.pdf)
+
 [Donate to the campaign!](donate.md)
