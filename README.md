@@ -27,5 +27,5 @@ For more information, please email us at <nwfba2018@gmail.com>.
 
 [Support the campaign!](support.md)
 
-![Bikini Atoll explosion](fig/bikini-atoll.jpg)
-![2018 Hawaii Alert](fig/hawaii-alert.jpg)
+![Bikini Atoll explosion](img/bikini-atoll.jpg)
+![2018 Hawaii Alert](img/hawaii-alert.jpg)
