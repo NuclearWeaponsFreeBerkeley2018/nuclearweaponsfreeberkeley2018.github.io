@@ -27,6 +27,8 @@ For more information, please email us at <nwfba2018@gmail.com>.
 
 [Full Text of 1986 Nuclear Free Berkeley Act](nfba_1986.pdf)
 
+[Additional Resources on Nuclear Weapons](resources.md)
+
 [Support the campaign!](support.md)
 
 ![Bikini Atoll explosion](img/bikini-atoll.jpg)
