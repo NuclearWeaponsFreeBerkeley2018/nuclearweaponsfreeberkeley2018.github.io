@@ -11,3 +11,5 @@ The Madman and the Bomb
 
 Nuclear Weapons: Who Has What at a Glance  
 <https://www.armscontrol.org/factsheets/Nuclearweaponswhohaswhat>
+
+![Nuclear weapon free zones](img/nwf-zones.jpg)
