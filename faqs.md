@@ -41,4 +41,5 @@ We need 2950 signatures, but our goal is 3500 signatures as a safety margin. If 
 #### Can I donate to the campaign?
 Absolutely! You can donate to our [paypal account](support.md) All funds will go towards this campaign and whatever is not used will be donated to charity.
 
-[Homepage](README.md)
+---
+[Homepage](index.md)

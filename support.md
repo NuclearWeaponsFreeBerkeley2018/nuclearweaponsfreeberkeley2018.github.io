@@ -4,4 +4,5 @@ Want to join us in being a part of Berkeley's renewed commitment against nuclear
 
 Donations can be made via the [campaign's PayPal account]() (currently being set up). 
 
-[Homepage](README.md)
+---
+[Homepage](index.md)
