@@ -1,6 +1,5 @@
 # Events
 
-This page is currently under construction. Check back soon!
-
+To be announced, check back soon!
 
 [Homepage](README.md)
