@@ -14,7 +14,7 @@ We are trying to get the Nuclear Weapons Free Berkeley Act on the City of Berkel
 1. Prevents the spread of nuclear weapons by promoting non-proliferation efforts.
 
 #### Why should we update the Berkeley Nuclear Free Act?
-The current law advocates for just halting the production of nuclear weapons. This was the only logical argument that could be made with 60,000 weapons globally. However, now that number less than 15,000 and shrinking. It is now more feasible to eliminate nuclear weapons altogether. The new measure would also advocate for federal funding to combat climate change. It promotes non-proliferation research and eases restrictions on the City of Berkeley’s contracts with UC Berkeley and LBNL. This means more collaboration on important topics such as climate mitigation research. The current law uses outdated information and needs to be updated. 
+The current law advocates for just halting the production of nuclear weapons. This was the only logical argument that could be made with 60,000 weapons globally. However, now that number less than 15,000 and shrinking. It is now more feasible to eliminate nuclear weapons altogether. The new measure would also advocate for federal funding to combat climate change. It promotes non-proliferation research and eases restrictions on the City of Berkeley’s contracts with UC Berkeley and LBNL. This means more collaboration on important topics such as climate change mitigation research. The current law uses outdated information and needs to be updated. 
 
 #### How can I help?
 We need people to sign and gather signatures. We also accept donations to help this campaign.
