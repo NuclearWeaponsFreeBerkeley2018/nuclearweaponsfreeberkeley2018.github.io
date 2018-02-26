@@ -18,6 +18,7 @@ The current law advocates for just halting the production of nuclear weapons. Th
 
 #### Are there any financial benefits for the city by changing this law?
 Yes!  There are multiple unneccessary contract and investment restrictions by the current law.  Some interpretations of the law says that the City of Berkeley cannot invest in US Treasury bonds.  The current law also makes it harder to collaborate with UC Berkeley and Lawerence Berkeley National Lab. It has even caused issues with the Berkeley Public Library doing business with 3M, one of the largest office supply companies in the world.  More information can be found in this article: [Can Berkeley Live with Not Being Nuclear Free?](http://www.berkeleyside.com/2011/10/11/can-berkeley-live-with-not-being-nuclear-free/)
+The new law will ease these restrictions, which will save the City time and taxpayer money, while making sure the City of Berkeley does not invest directly in nuclear weapons work.
 
 #### How can I help?
 We need people to sign and gather signatures. We also accept donations to help this campaign.
