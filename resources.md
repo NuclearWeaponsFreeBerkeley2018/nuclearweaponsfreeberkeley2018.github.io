@@ -14,5 +14,19 @@ Nuclear Weapons: Who Has What at a Glance
 
 ![Nuclear weapon free zones](img/nwf-zones.jpg)
 
+# Additional Resources on Berkeley's Nuclear Free Zone
+
+Can Berkeley live with not being nuclear-free?
+<http://www.berkeleyside.com/2011/10/11/can-berkeley-live-with-not-being-nuclear-free/>
+
+Berkeley Nuclear-Free Zone Ordinance Reconsidered
+<https://www.huffingtonpost.com/2011/10/12/berkeley-nuclear-free-zone-reconsidered_n_1007797.html>
+
+Berkeley's Nuclear Free Zone law questioned
+<https://www.sfgate.com/news/article/Berkeley-s-Nuclear-Free-Zone-law-questioned-2327682.php>
+
+City council member wants to repeal parts of Berkeley’s nuclear free act
+<http://www.dailycal.org/2011/10/10/city-council-member-wants-to-repeal-parts-of-berkeleys-nuclear-free-act/>
+
 ---
 [Homepage](index.md)
