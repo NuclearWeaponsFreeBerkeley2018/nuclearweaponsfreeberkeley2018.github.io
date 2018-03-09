@@ -1,4 +1,5 @@
 #!/bin/bash
-# Shell script to run the Jekyll site locally (and remind you where to preview it)
-#         --->   Note: You must have Ruby and Jekyll installed locally to run this
+# Run the Jekyll site locally (preview it using the 'Server Address' shown)
+#    |--> Note: You must have Ruby and Jekyll installed locally to run this
+
 bundle exec jekyll serve
