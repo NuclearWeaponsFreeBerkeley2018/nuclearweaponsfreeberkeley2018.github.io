@@ -1,7 +1,7 @@
 ## Citizens against nuclear weapons in Berkeley:
 ### Update a Cold War law for modern times and advocate for a nuclear weapons free world.
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/2fXfwHrGVSs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/2fXfwHrGVSs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The original Berkeley Nuclear Free Act measured passed by ballot measure in 1986. 
 This was during the height of the cold war when over 60,000 weapons were stockpiled globally. 
